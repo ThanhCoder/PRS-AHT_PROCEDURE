@@ -1,12 +1,12 @@
 <?php
 
-namespace Repositories;
+namespace AHT\Repositories;
 
 class HomeRepository{
 
     public function hello()
     {
-        return "Hello I'm Thanh";
+        echo "Hello I'm Thanh";
     
     }
 }

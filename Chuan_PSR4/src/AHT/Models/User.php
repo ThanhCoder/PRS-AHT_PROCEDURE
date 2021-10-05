@@ -1,6 +1,6 @@
 <?php
 
-namespace Models;
+namespace AHT\Models;
 
 class User{
     public function list(){

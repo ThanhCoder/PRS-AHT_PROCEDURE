@@ -1,9 +1,9 @@
 <?php
 
-namespace Controllers;
+namespace AHT\Controllers;
 
-use Repositories\HomeRepository;
-use Models\User;
+use AHT\Repositories\HomeRepository;
+use AHT\Models\User;
 
 class HomeController{
     public  function actionIndex(){
